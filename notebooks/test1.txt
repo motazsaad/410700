@@ -1,0 +1,6 @@
+hello
+my name is Ahmed and I study python 
+
+Python is a cool language and I write python code everyday 
+
+goodbye 
