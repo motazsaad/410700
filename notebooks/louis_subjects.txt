@@ -1,0 +1,24 @@
+Subject: [sakai] svn commit: r39771 - in bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src: bundle java/org/sakaiproject/site/tool
+Subject: [sakai] svn commit: r39749 - in bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src: bundle webapp/vm/sitesetup
+Subject: [sakai] svn commit: r39746 - in bspace/site-manage/sakai_2-4-x/site-manage-tool/tool/src: bundle webapp/vm/sitesetup
+Subject: [sakai] svn commit: r39608 - gradebook/branches/sakai_2-4-x/app/ui/src/java/org/sakaiproject/tool/gradebook/ui
+Subject: [sakai] svn commit: r39570 - gradebook/branches/sakai_2-4-x/app/ui/src/bundle/org/sakaiproject/tool/gradebook/bundle
+Subject: [sakai] svn commit: r39567 - sections/trunk/sections-app-util/src/bundle
+Subject: [sakai] svn commit: r39476 - in bspace/assignment/post-2-4: assignment-bundles assignment-tool/tool/src/webapp/vm/assignment
+Subject: [sakai] svn commit: r39400 - bspace/assignment/post-2-4/assignment-tool/tool/src/webapp/vm/assignment
+Subject: [sakai] svn commit: r39303 - bspace/osp/sakai_2-4-x/warehouse/api-impl/src/java/org/theospi/portfolio/warehouse/sakai/assignment
+Subject: [sakai] svn commit: r39293 - bspace/osp
+Subject: [sakai] svn commit: r39297 - bspace/osp/sakai_2-4x
+Subject: [sakai] svn commit: r39295 - bspace/osp
+Subject: [sakai] svn commit: r39294 - bspace/osp
+Subject: [sakai] svn commit: r39301 - bspace/osp
+Subject: [sakai] svn commit: r39300 - bspace/osp
+Subject: [sakai] svn commit: r39299 - in bspace/osp: . sakai
+Subject: [sakai] svn commit: r39298 - bspace/osp
+Subject: [sakai] svn commit: r39249 - bspace/assignment
+Subject: [sakai] svn commit: r39248 - bspace/assignment
+Subject: [sakai] svn commit: r39124 - sections/branches/sakai_2-5-x/sections-app-util/src/bundle
+Subject: [sakai] svn commit: r37428 - in roster/trunk/roster-app/src: java/org/sakaiproject/tool/roster webapp/roster/inc
+Subject: [sakai] svn commit: r37399 - roster/trunk/roster-app/src/java/org/sakaiproject/tool/roster
+Subject: [sakai] svn commit: r37395 - roster/trunk/roster-app/src/webapp/roster
+Subject: [sakai] svn commit: r37383 - roster/trunk/roster-app/src/java/org/sakaiproject/tool/roster
